@@ -1,0 +1,18 @@
+<div hidden>
+  {% assign strings = site.data.strings %}
+  <h2 class="sr-only">{{ strings.templates | default: "Templates"}}{{ strings.colon | default:":" }}</h2>
+
+  {% include templates/animation.html %}
+  {% include templates/loading.html %}
+  {% include templates/error.html %}
+  {% include templates/permalink.html %}
+  {% if site.hydejack.cookies_banner %}
+    {% include templates/cookies-banner.html %}
+  {% endif %}
+  {% if site.hydejack.dark_mode.icon %}
+    {% include templates/dark-mode.html %}
+  {% endif %}
+  {% unless site.hydejack.no_search %}
+    {% include templates/search.html %}
+  {% endunless %}
+</div>

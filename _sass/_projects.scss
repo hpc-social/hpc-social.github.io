@@ -1,0 +1,134 @@
+// Copyright (c) 2019 Florian Klampfer <https://qwtel.com/>
+
+main:not(.layout-resume) {
+  $gutter: 1rem;
+
+  .columns {
+    margin-left: -$gutter;
+    display: flex;
+    flex-wrap: wrap;
+    contain: content;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    padding-right: 1rem;
+    margin-right: -1rem;
+
+    &::after {
+      @extend .clearfix;
+    }
+  }
+
+  .column {
+    float: left;
+    padding-left: $gutter;
+    margin-bottom: 2rem;
+    width: 100%;
+    display: flex;
+  }
+
+  @media screen and (min-width: $break-point-1) {
+    .columns {
+      margin-left: -1rem - $gutter;
+      margin-right: -2rem;
+    }
+    .column-1-2 { width: 50%; }
+  }
+
+  @media screen and (min-width: $break-point-dynamic) {
+    .columns-break { 
+      $helper: $content-width-5 / 2 - $content-margin-5 + ($gutter * 2);
+      width: calc(50vw + #{$helper});
+      > .column-1-2, 
+      > .column-1 {
+        width: ($content-width-5 / 2) + ($gutter / 2);
+      }
+    }
+  }
+
+  @media print {
+    .columns {
+      display: block;
+    }
+
+    .column {
+      display: block;
+      width: 50%;
+    }
+  }
+
+  .project-card {
+    @extend .color-transition;
+    width: 100%;
+    color: var(--gray-text);
+    background-color: var(--gray-bg);
+    padding-bottom: 1rem;
+    position: relative;
+    overflow: hidden;
+    box-shadow: .125rem .125rem 1rem rgba(0, 0, 0, 0.2);
+    contain: content;
+    border-radius: $border-radius;
+
+    page-break-inside: avoid;
+
+    transition: transform 500ms ease;
+    will-change: transform;
+    &:hover {
+      transform: translateY(-0.25rem);
+      transition: transform 250ms ease;
+    }
+
+    > a.flip-project {
+      display: block;
+
+      .project-card-img {
+        margin-bottom: 0;
+        img { 
+          display: block; 
+          border-top-left-radius: $border-radius;
+          border-top-right-radius: $border-radius;
+        }
+      }
+    }
+
+    a {
+      position: relative;
+      z-index: 1;
+
+      &.fill-card {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0; 
+        bottom: 0;
+        z-index: 0;
+      }
+    }
+
+    > .project-card-title, > .project-card-text {
+      text-align: center;
+      padding: 0 1rem;
+    }
+
+    > .project-card-title {
+      display: block;
+      font-size: 1.08rem;
+      margin-top: .75rem;
+      margin-bottom: .25rem;
+      color: inherit;
+    }
+
+    > .project-card-text {
+      margin: .25rem 0;
+    }
+  }
+
+  .column-1 > .project-card {
+    > .project-card-title {
+      font-size: 1.2rem;
+    }
+
+    > .project-card-text {
+      font-size: 1rem;
+    }
+  }
+}

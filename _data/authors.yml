@@ -1,0 +1,97 @@
+author1:
+  name:              HPC Social
+  email:             mastodon-admins@hpc.social
+  about:             |
+    We are a community of HPC practitioners and friends. We hope that you join us! <br><br>
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/icons/hpc-social-admin.png
+    srcset:
+      1x:            /assets/icons/hpc-social-admin.png
+      2x:            /assets/icons/hpc-social-admin.png
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    github:          hpc-social
+    email:           mastodon-admins@hpc.social
+    twitter:         alan_sill
+    # youtube:         xxxxxxxxxxxxxxxxxxx
+    # resume:          /assets/resume.pdf
+    # facebook:        nick.engmann
+    # rss:             https://<url>/feed.xml
+    # google:          <number>
+    # vk:              <username>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+
+author2:
+  name:              Vanessasaurus
+  email:             sochat1@llnl.gov
+
+  about:             |
+    I'm the Vanessasaurus!<br><br>
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/icons/vsoch.png
+    srcset:
+      1x:            /assets/icons/vsoch.png
+      2x:            /assets/icons/vsoch.png
+
+  social:
+    github:          vsoch
+    email:           vsoch@hpc.social
+    twitter:         vsoch
+
+
+author3:
+  name:              Alan Sill
+  email:             alan.sill@ttu.edu
+
+  about:             |
+    Physics/cloud/data centers/HPC. The best other place to find me online is Mastodon. <br><br>
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/icons/profile.jpg
+    srcset:
+      1x:            /assets/icons/profile.jpg
+      2x:            /assets/icons/profile.jpg
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    github:          alansill
+    email:           alan.sill@ttu.edu
+    twitter:         alan_sill
