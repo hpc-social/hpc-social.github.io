@@ -20,4 +20,4 @@ We will be updating this site in the coming months - stay tuned!
 **coming soon**
 
 [projects]: projects/
-[news]: new/
+[news]: news/
