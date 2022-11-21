@@ -15,7 +15,7 @@ logo:                  /assets/img/hpc-social-blue.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Alan> <Sill>
-  email:               <mastodon-admins@hpc.social>
+  email:               <info@hpc.social>
   # Used by `jekyll-seo-tag`:
   twitter:             <hpc_social>
 

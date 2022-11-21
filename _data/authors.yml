@@ -1,6 +1,6 @@
 author1:
   name:              HPC Social
-  email:             mastodon-admins@hpc.social
+  email:             info@hpc.social
   about:             |
     We are a community of HPC practitioners and friends. We hope that you join us! <br><br>
 
@@ -16,7 +16,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     github:          hpc-social
-    email:           mastodon-admins@hpc.social
+    email:           info@hpc.social
     twitter:         hpc_social
     # youtube:         xxxxxxxxxxxxxxxxxxx
     # resume:          /assets/resume.pdf
