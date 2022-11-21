@@ -29,7 +29,7 @@ menu:
 # Add links to the footer.
 legal:
   - title:             LICENSE
-    external_url:      https://github.com/hpc-social.github.io/blob/main/LICENSE
+    external_url:      https://github.com/hpc-social/hpc-social.github.io/blob/main/LICENSE
   - title:             CHANGELOG
     url:               /CHANGELOG/
 
