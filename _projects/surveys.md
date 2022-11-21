@@ -20,7 +20,7 @@ accent_color: '#4fb1ba'
 ## Community Surveys
 
   To guide this project we started with a survey and plan more.
-  [See the details here](https://survey.hpc.social/")
+  [See the details here](https://survey.hpc.social/)
   and suggest more by opening an issue or pull request on our 
   [GitHub surveys repository](https://github.som/hpc-social/surveys).
 
