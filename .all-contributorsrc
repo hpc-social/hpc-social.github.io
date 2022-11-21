@@ -31,6 +31,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/20584423?v=4"
             ]
+        },
+        {
+            "login": "alansill",
+            "name": "Alan Sill",
+            "contributions": [
+                "code"
+            ],
+            "profile": "nsfcac.org or www.depts.ttu.edu/hpcc/",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/2364484?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
