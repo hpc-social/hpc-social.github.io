@@ -15,9 +15,9 @@ logo:                  /assets/img/hpc-social-blue.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Alan> <Sill>
-  email:               <alan.sill@ttu.edu>
+  email:               <mastodon-admins@hpc.social>
   # Used by `jekyll-seo-tag`:
-  twitter:             <alan_sill>
+  twitter:             <hpc_social>
 
 # Add links to the sidebar.
 menu:
@@ -306,7 +306,7 @@ plugins:
 
 # Used for twitter cards
 twitter:
-  username:            <whoiscyril>
+  username:            <hpc_social>
 
 # Used for facebook open graph
 # facebook:
@@ -318,7 +318,7 @@ twitter:
 social:
   name:                <HPC> <Social>
   links:
-    - https://twitter.com/<alan_sill>
+    - https://twitter.com/<hpc_social>
     - https://github.com/<hpc-social>
 
 
