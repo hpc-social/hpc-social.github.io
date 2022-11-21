@@ -11,7 +11,7 @@ links:
 caption: Starting a map of community members
 description: >
   Where is the HPC social and friends community located? Add yourself anonymously to our
-  <a class="link" href="https://github.com/hpc-social/map" target="_blank">community map</a>! 
+  <a class="link" href="https://hpc.social/map" target="_blank">community map</a>! 
   <br>
 accent_color: '#4fb1ba'
 ---
