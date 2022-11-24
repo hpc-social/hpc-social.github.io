@@ -22,6 +22,8 @@ accent_image:
 
 ### hpc.social on Mastodon
 
+<img src="https://img.shields.io/badge/dynamic/json?label=Accounts&query=stats.user_count&url=https%3A%2F%2Fmast.hpc.social%2Fapi%2Fv1%2Finstance"/>
+
 We are proud to provide the HPC community with a Mastodon instance at
 <a class="link" href="https://mast.hpc.social" target="_blank">mast.hpc.social</a>! 
 The policy documents linked here are served from <a href="https://github.com/hpc-social/mastodon-policies" target="_blank">hpc-social/mastodon-policies</a> on GitHub. You can as questions, or make contributions or suggestions for changes there.</quote>
