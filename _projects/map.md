@@ -36,14 +36,12 @@ you can leave "State" blank and just provide a City and Country.
       <input type="text" name="entry.173120540" class="form-control" placeholder="What country do you live in?" required>
   </div>
   <div class="form-group">
-  <p>Are you an individual or a group? Feel free to fill in the form multiple times for yourself and your group(s)!</p>
-  <div class="form-check">
-    <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" name="entry.954597497">
-      I am filling this out on behalf of a group (leave unchecked for individual)
-    </label>
-  </div>
+  <p class="alert alert-info">Are you an individual or a group? Feel free to fill in the form multiple times for yourself and your group(s)!</p>
   <br>
+  <div class="form-group">
+      <p>If you are filling this out on behalf of a group and would like to share a link on the map, include the URL here.</p>
+      <input type="url" name="entry.934183710" class="form-control" placeholder="https://...">
+  </div>
   <div class="form-group">
       <input type="text" name="entry.730771105" class="form-control" placeholder="Would you like to identify yourself, or your group?">
   </div>
