@@ -335,13 +335,6 @@ titles_from_headings:
   strip_title:         true
   collections:         true
 
-compress_html:
-  comments:            ["<!--", "-->"]
-  clippings:           all
-  endings:             all
-  ignore:
-    envs:              [development]
-
 sass:
   style:               compressed
 
