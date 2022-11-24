@@ -6,8 +6,8 @@ description: >
 image: /assets/img/projects/map.png
 ---
 
-After an evening coding session, we are happy to announce that the community map
-([and associated automation](https://github.com/hpc-social/map)) is live!
+After an evening coding session, we are happy to announce that the [community map](https://hpc.social/map/)
+ ([and associated automation](https://github.com/hpc-social/map)) is live!
 This post will capture the screenshot of the first set of entries, which is what
 we wanted to write about. This was only announced days ago (and we only have a few entries)
 but we are taken aback by the (so far) geographic diversity of the HPC community!
