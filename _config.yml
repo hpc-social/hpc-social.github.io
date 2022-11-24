@@ -25,6 +25,8 @@ menu:
     url:               /projects/
   - title:             News
     url:               /news/
+  - title:             Discussion
+    external_url:      https://github.com/hpc-social/hpc-social.github.io/discussions
 
 # Add links to the footer.
 legal:
@@ -149,7 +151,7 @@ hydejack:
   no_push_state:       false
 
   # Set to `true` if you want to disable the drawer
-  no_drawer:           false
+  no_drawer:           true
 
   # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
   # Note that this will not hide the navbar completely, only replace it with a static one.
