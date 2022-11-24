@@ -26,6 +26,7 @@ accent_image:
 
 We are proud to provide the HPC community with a Mastodon instance at
 <a class="link" href="https://mast.hpc.social" target="_blank">mast.hpc.social</a>! 
+
 The policy documents linked here are served from <a href="https://github.com/hpc-social/mastodon-policies" target="_blank">hpc-social/mastodon-policies</a> on GitHub. You can as questions, or make contributions or suggestions for changes there.
 
 <div id="server-policy" style="display:none"></div>
