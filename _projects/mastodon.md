@@ -26,8 +26,18 @@ accent_image:
 
 We are proud to provide the HPC community with a Mastodon instance at
 <a class="link" href="https://mast.hpc.social" target="_blank">mast.hpc.social</a>! 
-You can check out <a href="https://mast.hpc.social/directory" target="_blank">community profiles here</a>,
-and find important contacts, policy, and <a href="https://mast.hpc.social/about" target="_blank">details here</a>
+
+Here are some getting-started links: 
+
+* About the server, including links to sign in or sign up: [https://mast.hpc.social/about](https://mast.hpc.social/about)
+
+* Direct sign-up link to create a new account: [https://mast.hpc.social/auth/sign_up](https://mast.hpc.social/auth/sign_up)
+
+* Profiles directory to find people on pur server and elsewhere: [https://mast.hpc.social/directory](https://mast.hpc.social/directory)
+
+* Invite people once you've signed up (including option to send them a link to follow you): [https://mast.hpc.social/invites](https://mast.hpc.social/invites)
+
+* Privacy policy: [https://mast.hpc.social/privacy-policy](https://mast.hpc.social/privacy-policy) and see also links in the "About" starting page.
 
 The policy documents linked here are served from <a href="https://github.com/hpc-social/mastodon-policies" target="_blank">hpc-social/mastodon-policies</a> on GitHub. You can ask questions, or make contributions or suggestions for changes there.
 
