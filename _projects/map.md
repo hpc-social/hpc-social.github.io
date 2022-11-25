@@ -39,7 +39,7 @@ you can leave "State" blank and just provide a City and Country.
   <p class="alert alert-info">Are you an individual or a group? Feel free to fill in the form multiple times for yourself and your group(s)!</p>
   <br>
   <div class="form-group">
-      <p>If you are filling this out on behalf of a group and would like to share a link on the map, include the URL here.</p>
+      <p>If you are filling this out on behalf of an HPC center or group and would like to share a link on the map, include the URL here.</p>
       <input type="url" name="entry.934183710" class="form-control" placeholder="https://...">
   </div>
   <div class="form-group">
