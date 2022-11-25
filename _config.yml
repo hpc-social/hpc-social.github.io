@@ -1,6 +1,7 @@
 url:                   https://hpc-social.github.io
 lang:                  en
 title:                 HPC.social
+baseurl:               ""
 
 description:           >
  A community of high performance computing practitioners and friends.
