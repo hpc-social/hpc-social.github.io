@@ -3,11 +3,9 @@ lang:                  en
 title:                 HPC.social
 baseurl:               ""
 
-description:           >
- A community of high performance computing practitioners and friends.
+description:           A community of high performance computing practitioners and friends.
 
-tagline:               >
-  Practitioners and friends.
+tagline:               Practitioners and friends.
 
 issues_url:            https://github.com/hpc-social/hpc-social.github.io/issues
 keywords:              [hpc, social, mastodon]
@@ -15,10 +13,10 @@ logo:                  /assets/img/hpc-social-blue.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Alan> <Sill>
-  email:               <info@hpc.social>
+  name:                Alan Sill
+  email:               info@hpc.social
   # Used by `jekyll-seo-tag`:
-  twitter:             <hpc_social>
+  twitter:             hpc_social
 
 # Add links to the sidebar.
 menu:
@@ -284,7 +282,6 @@ plugins:
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-relative-links
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-include-cache
@@ -305,7 +302,7 @@ plugins:
 
 # Used for twitter cards
 twitter:
-  username:            <hpc_social>
+  username:            hpc_social
 
 # Used for facebook open graph
 # facebook:
@@ -315,10 +312,11 @@ twitter:
 
 # Used on index and about sites
 social:
-  name:                <HPC> <Social>
+  name:                HPC Social
+  github:              hpc-social
   links:
-    - https://twitter.com/<hpc_social>
-    - https://github.com/<hpc-social>
+    - https://twitter.com/hpc_social
+    - https://github.com/hpc-social
 
 
 # Plugin Configs
@@ -349,22 +347,19 @@ jekyll_compose:
     drafts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Drafts for hpc.social
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        News for the hpc.social site.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Projects for the hpc.social community
       image:
         path: /assets/img/sidebar-bg.jpg
       links:

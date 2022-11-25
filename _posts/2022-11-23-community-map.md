@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Community Map
-description: >
-  The community map is live!
+description: The community map is live!
 image: /assets/img/projects/map.png
 ---
 
