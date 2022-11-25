@@ -1,0 +1,34 @@
+{% if page.title %}<meta property="og:title" content="{{ page.title }}" />{% else %}
+<meta property="og:title" content="{{ site.title }}" />{% endif %}
+{% if page.description %}<meta property="og:description" content="{{ page.description }}">
+{% else %}<meta property="og:description" content="{{ page.title }}">{% endif %}
+
+{% if site.author.name %}<meta name="author" content="{{ site.author.name }}" />{% endif %}
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/{{ page.url }}" />
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/{{ page.url }}" />
+
+{% if page.image.path %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.image.path }}" />
+{% else %}
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ site.logo }}" />
+{% endif %}
+
+<!-- Twitter summary cards -->
+{% if site.twitter.username %}
+<meta name="twitter:site" content="@{{ site.twitter.username }}" />
+<meta name="twitter:creator" content="@{{ site.twitter.username }}" />
+{% endif %} 
+<meta name="twitter:card" content="summary" />
+
+{% if page.title %}<meta name="twitter:title" content="{{ page.title }}" />{% else %}<meta name="twitter:title" content="{{ site.title }}" />{% endif %}
+
+{% if page.description %}<meta name="twitter:description" content="{{ page.description }}">
+{% else %}<meta name="twitter:description" content="{{ page.title }}">{% endif %}
+
+{% if page.image.path %}<meta name="twitter:image" content="{{ page.image.path }}" />{% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" />{% endif %}
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"{{ site.author.name }}"},"description":"{{ site.description }}","headline":"{{ site.title }}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"{{ site.url }}{{ site.baseurl }}{{ site.logo }}"},"name":"{{ site.author.name }}"},"sameAs":["https://twitter.com/{{ site.twitter.username }}","https://github.com/{{ site.social.github }}"],"url":"{{ site.url }}{{ site.baseurl }}"}</script>

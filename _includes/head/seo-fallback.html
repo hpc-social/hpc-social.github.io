@@ -9,5 +9,4 @@
   {% endif %}
 {% endcapture %}
 <title>{{ title | strip }}</title>
-<meta name="description" content="{{ page.description | default:page.excerpt | default:site.description | markdownify | strip_html }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
