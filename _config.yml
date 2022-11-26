@@ -26,6 +26,8 @@ menu:
     url:               /news/
   - title:             Discussion
     external_url:      https://github.com/hpc-social/hpc-social.github.io/discussions
+  - title:             Join Us On Mastodon
+    external_url:      https://mast.hpc.social/about    
 
 # Add links to the footer.
 legal:
