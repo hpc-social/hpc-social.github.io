@@ -14,6 +14,7 @@ We will be updating this site in the coming months - stay tuned!
 * [Projects]{:.heading.flip-title} --- Maintained by the community.
 * [Discussions]{:.heading.flip-title} --- Community Discussion
 * [News]{:.heading.flip-title} --- Latest news and announcements.
+* [Mastodon]{:.heading.flip-title} --- Learn how to join us on Mastodon.
 
 {:.related-posts.faded}
 
@@ -24,3 +25,4 @@ We will be updating this site in the coming months - stay tuned!
 [projects]: projects/
 [news]: news/
 [discussions]: https://github.com/hpc-social/hpc-social.github.io/discussions
+[mastodon]: projects/mastodon/

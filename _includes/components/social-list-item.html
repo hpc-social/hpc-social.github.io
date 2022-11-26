@@ -8,12 +8,18 @@
   {% assign icon = data_social.icon | default:'icon-link' %}
   {% assign app = data_social.append %}
   {% assign prep = data_social.prepend %}
+  {% assign target = "_blank" %}
 
   {% unless data_social %}
     {% if platform == "email" %}
       {% assign name = "Email" %}
       {% assign icon = "icon-mail" %}
       {% assign prep = "mailto:" %}
+      {% assign target = "_self" %}
+    {% elsif platform == "mastodon" %}
+      {% assign name = "Mastodon" %}
+      {% assign icon = "mastodon-icon" %}
+      {% assign prep = "" %}
     {% elsif platform == "twitter" %}
       {% assign name = "Twitter" %}
       {% assign icon = "icon-twitter" %}
@@ -32,7 +38,7 @@
   {% endif %}
 
   <li>
-    <a href="{{ url }}" title="{{ name }}" class="no-mark-external">
+    <a target="{{ target }}" href="{{ url }}" title="{{ name }}" class="no-mark-external">
       <span class="{{ icon }}"></span>
       <span class="sr-only">{{ name }}</span>
     </a>

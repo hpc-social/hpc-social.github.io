@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 @font-face {
   font-family: 'icomoon';
   src:  url('fonts/icomoon.eot?jbjoqu');
@@ -309,4 +313,8 @@
 }
 .icon-history:before {
   content: "\1f552";
+}
+/* explicitly different name so it doesn't match icon-* pattern*/
+.mastodon-icon:before {
+  content: url({{ site.url }}{{ site.baseurl }}/assets/icons/mastodon.svg);
 }
