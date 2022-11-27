@@ -310,3 +310,7 @@
 .icon-history:before {
   content: "\1f552";
 }
+/* explicitly different name so it doesn't match icon-* pattern*/
+.mastodon-icon:before {
+  content: url(/assets/icons/mastodon.svg);
+}
