@@ -43,4 +43,4 @@ Here are some getting-started links:
 
 * Privacy policy: [https://mast.hpc.social/privacy-policy](https://mast.hpc.social/privacy-policy) and see also links in the "About" starting page.
 
-You can read more about our policy at <a href="https://github.com/hpc-social/mastodon-policies" target="_blank">hpc-social/mastodon-policies</a> on GitHub. You can ask questions, or make contributions or suggestions for changes there.
+You can read more about our policy at <a href="https://github.com/hpc-social/mastodon-instance-and-policies" target="_blank">mastodon-instance-and-policies</a> on GitHub. You can ask questions, or make contributions or suggestions for changes there.
