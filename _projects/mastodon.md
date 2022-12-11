@@ -37,7 +37,7 @@ Here are some getting-started links:
 
 * Direct sign-up link to create a new account: [https://mast.hpc.social/auth/sign_up](https://mast.hpc.social/auth/sign_up)
 
-* Profiles directory to find people on pur server and elsewhere: [https://mast.hpc.social/directory](https://mast.hpc.social/directory)
+* Profiles directory to find people on our server and elsewhere: [https://mast.hpc.social/directory](https://mast.hpc.social/directory)
 
 * Invite people once you've signed up (including option to send them a link to follow you): [https://mast.hpc.social/invites](https://mast.hpc.social/invites)
 
