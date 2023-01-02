@@ -1,7 +1,7 @@
 # hpc-social
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the HPC Social site!
@@ -25,6 +25,7 @@ tool to generate a contributors graphic below.
       <td align="center" valign="top" width="14.28%"><a href="https://vsoch.github.io"><img src="https://avatars.githubusercontent.com/u/814322?v=4?s=100" width="100px;" alt="Vanessasaurus"/><br /><sub><b>Vanessasaurus</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=vsoch" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FCLC"><img src="https://avatars.githubusercontent.com/u/20584423?v=4?s=100" width="100px;" alt="FCLC"/><br /><sub><b>FCLC</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=FCLC" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="nsfcac.org or www.depts.ttu.edu/hpcc/"><img src="https://avatars.githubusercontent.com/u/2364484?v=4?s=100" width="100px;" alt="Alan Sill"/><br /><sub><b>Alan Sill</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=alansill" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/brandonbiggs"><img src="https://avatars.githubusercontent.com/u/34954680?v=4?s=100" width="100px;" alt="Brandon Biggs"/><br /><sub><b>Brandon Biggs</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=brandonbiggs" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

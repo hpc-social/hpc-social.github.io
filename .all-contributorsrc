@@ -42,6 +42,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/2364484?v=4"
             ]
+        },
+        {
+            "login": "brandonbiggs",
+            "name": "Brandon Biggs",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://github.com/brandonbiggs",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/34954680?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
