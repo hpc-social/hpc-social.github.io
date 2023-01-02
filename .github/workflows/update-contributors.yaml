@@ -54,7 +54,7 @@ jobs:
         else
            export OPEN_PULL_REQUEST=1
            printf "Changes\n"
-           git commit -a -m "Automated deployment to update contributors $(date '+%Y-%m-%d')"
+           git commit -a -m "[skip ci] automated deployment to update contributors $(date '+%Y-%m-%d')"
            git push origin "${BRANCH_FROM}"
         fi
 
