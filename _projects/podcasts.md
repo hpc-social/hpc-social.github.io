@@ -46,7 +46,7 @@ Recent episodes that featured HPC projects included:
 - [Episode 99](https://www.exascaleproject.org/ecps-warpx-team-successfully-models-promising-laser-plasma-accelerator-technology/): ECP's WarpX Team Successfully Models Promising Laser Plasma Accelerator Technology
 - [Episode 98](https://www.exascaleproject.org/providing-exascale-class-multiphysics-simulation-capability-to-multiple-science-domains/): Providing Exascale-Class Multiphysics Simulation Capability to Multiple Science Domains
 
-Contact the Let’s Talk Exascale podcast at ECP-communications@ornl.gov
+Contact the Let’s Talk Exascale podcast at <a href="mailto:ECP-communications@ornl.gov">ECP-communications@ornl.gov</a>
 
 ### Science in Parallel
 
