@@ -17,7 +17,7 @@ description: >
 
 The following podcasts have featured members of HPC community, and are listed in
 alphabetical order. Want to add a podcast
-to this list? <a href="https://github.com/hpc-social/hpc-social.github.io/issues" target="_blank">let us know!</a>.
+to this list? <a href="https://github.com/hpc-social/hpc-social.github.io/issues" target="_blank">Let us know</a>!
 
 ### Developer Stories
 
@@ -33,6 +33,20 @@ Recent episodes that featured HPC community projects and people have included:
 
 And browse more episodes [at the show site!](https://rseng.github.io/devstories/posts/). Information about the show and how
 to be featured as a guest is on the [about page](https://rseng.github.io/devstories/about/).
+
+### Let’s Talk Exascale
+
+<a href="https://www.exascaleproject.org/podcast/" target="_blank"><button class="btn btn-primary">Browse Let’s Talk Exascale</button></a>
+
+> ECP’s Let’s Talk Exascale podcast goes behind the scenes to chat with some of the people who are bringing a capable and sustainable exascale computing ecosystem to fruition. Discussions revolve around the challenges, successes, and expected impact of the project.
+
+Recent episodes that featured HPC projects included:
+
+- [Episode 100](https://www.exascaleproject.org/reflecting-on-the-why-behind-supercomputing-simulations-advancing-science/): Reflecting on the ‘Why’ behind Supercomputing Simulations: Advancing Science
+- [Episode 99](https://www.exascaleproject.org/ecps-warpx-team-successfully-models-promising-laser-plasma-accelerator-technology/): ECP's WarpX Team Successfully Models Promising Laser Plasma Accelerator Technology
+- [Episode 98](https://www.exascaleproject.org/providing-exascale-class-multiphysics-simulation-capability-to-multiple-science-domains/): Providing Exascale-Class Multiphysics Simulation Capability to Multiple Science Domains
+
+Contact the Let’s Talk Exascale podcast at <a href="mailto:ECP-communications@ornl.gov">ECP-communications@ornl.gov</a>
 
 ### Science in Parallel
 
