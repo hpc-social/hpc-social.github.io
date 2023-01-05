@@ -28,6 +28,8 @@ menu:
     external_url:      https://github.com/hpc-social/hpc-social.github.io/discussions
   - title:             Mastodon
     url:               /projects/mastodon/
+  - title:             Chat
+    url:               /projects/chat/
 
 # Add links to the footer.
 legal:
