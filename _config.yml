@@ -30,6 +30,8 @@ menu:
     url:               /projects/mastodon/
   - title:             Chat
     url:               /projects/chat/
+  - title:             Jobs
+    url:               /projects/jobs/
 
 # Add links to the footer.
 legal:
