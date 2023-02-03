@@ -3,7 +3,7 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 description: >
-  Thank you to our community and institutional sponsors for supporting hpc.social!
+  Thank you to our community and institutional sponsors for supporting hpc.social! We are grateful for this support, which is financial only and does not provide any other rights to contribute or influence content. To become a sponsor and help to cover the costs of providing this site and the other hpc.social services, please use the "Sponsor" button below.
 no_groups: true
 ---
 
