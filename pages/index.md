@@ -14,6 +14,7 @@ We will be updating this site in the coming months - stay tuned!
 * [Discussions]{:.heading.flip-title} --- Community Discussion
 * [News]{:.heading.flip-title} --- Latest news and announcements.
 * [Projects]{:.heading.flip-title} --- showcasing initiatives from our community
+* [Sponsors]{:.heading.flip-title} --- sponsors for hpc.social.
 
 
 ## Social
@@ -38,6 +39,7 @@ We will be updating this site in the coming months - stay tuned!
 
 [projects]: projects/
 [news]: news/
+[sponsors]: sponsors/
 [chat]: projects/chat/
 [map]: https://hpc.social/map/
 [discussions]: https://github.com/hpc-social/hpc-social.github.io/discussions

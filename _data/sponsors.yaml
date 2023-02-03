@@ -1,0 +1,11 @@
+# This file contains meta data for our sponsors
+sponsors:
+- name: Open Grid Forum
+  url: https://www.ogf.org/
+  image: assets/img/sponsors/ogf-logo-no-tagline-border-white-small.png
+- name: National Center for Supercomputing Applications
+  url: https://www.ncsa.illinois.edu/
+  image: assets/img/sponsors/ncsa-logo-border-white-small.png
+- name: Cloud and Autonomic Computing Center
+  url: https://nsfcac.org/
+  image: assets/img/sponsors/nsf-cac-logo-color-no-tagline-white-small.png

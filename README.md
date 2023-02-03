@@ -11,6 +11,13 @@ Welcome to the HPC Social site!
 This is a portal for community resources and connection. It is currently
 under development, and we welcome your contributions and feedback!
 
+## Usage
+
+### Adding a Sponsor
+
+Add a data entry to [_data/sponsors.yaml](_data/sponsors.yaml). You can put the image 
+under [assets/img/sponsors](assets/img/sponsors) with the others.
+
 ## 😁️ Contributors 😁️
 
 We use the [all-contributors](https://github.com/all-contributors/all-contributors)
