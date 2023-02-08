@@ -19,8 +19,14 @@ accent_color: '#4fb1ba'
 
 ## Community Surveys
 
-  To guide this project we started with a survey and plan more.
-  [See the details here](https://survey.hpc.social/)
-  and suggest more by opening an issue or pull request on our 
-  [GitHub surveys repository](https://github.com/hpc-social/surveys).
+### HPC Social
 
+To guide this project we started with [survey.hpc.social](https://survey.hpc.social/) and are planning more!
+We encourage you to suggest more by opening an issue or pull request on our [GitHub surveys repository](https://github.com/hpc-social/surveys).
+
+### Developer Surveys
+
+Developer surveys to assess happiness, productivity, or general needs can deliver insights
+to our larger community too! The following developer surveys are shared by their respective institutions:
+
+ - [LLNL Developer Survey](https://software.llnl.gov/radiuss/2023/02/08/first-developer-survey/): results for 2022, shared in 2023.
