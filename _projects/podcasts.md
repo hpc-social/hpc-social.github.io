@@ -7,7 +7,7 @@ image:
 screenshot: /assets/img/projects/devstories.png
 links:
   - title: Developer Stories
-    url: https://rseng.github.io/devstores
+    url: https://rseng.github.io/devstories
 caption: Community member voices
 description: >
   We support our community podcasts that feature members of the HPC community!
