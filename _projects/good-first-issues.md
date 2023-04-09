@@ -28,7 +28,7 @@ the [Research Software Encyclopedia](https://rseng.github.io/software/), and the
 
 The Research Software Encyclopedia "RSEPedia" is updated weekly from a large set of research software registries, including
 (but not limited to) JoSS, ROpenSci, and bio.tools. You can see the [complete listing here](https://rseng.github.io/rse/getting-started/scrapers/index.html). When this update happens, metadata for new research software repositories is added to the RSEPedia
-site, programatically available as JSON, making it easy to query this file and look for new repositories.
+site, programmatically available as JSON, making it easy to query this file and look for new repositories.
 To learn more about the research software encyclopedia, you can [read the paper here](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.359/).
 
 ### New Contributors
