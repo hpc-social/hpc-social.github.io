@@ -46,5 +46,5 @@ If you empathize with <a href="https://xkcd.com/1782/" target="_blank">xkcd #178
 you're welcome to join the #hpc channel on <a href="https://libera.chat/" target="_blank">Libera.chat</a>.
 It's a small, laid back group of HPC practioners and friends who prefer the quaint world of IRC.
 
-> The #hpc IRC channel is not officially offiliated with hpc.social or any other group or project.
+> The #hpc IRC channel is not officially affiliated with hpc.social or any other group or project.
 
