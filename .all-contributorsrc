@@ -53,6 +53,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/34954680?v=4"
             ]
+        },
+        {
+            "login": "jwbowen",
+            "name": "Jason Bowen",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://git.sr.ht/~jbowen",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/1063858?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
