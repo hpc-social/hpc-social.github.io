@@ -37,3 +37,14 @@ If your preference is for Discord, we have a small community of HPC practitioner
 there. We look forward to seeing you!
 
 > For both of the above, we are currently supporting these invitation links for you to use freely, and note that our moderators are watching for new community members that join to ensure that bots or otherwise spam is not an issue. If we detect malicious use of the links, we will remove them and require joining by more manual means. 
+
+### IRC (#hpc on Libera.chat)
+
+<a href="https://web.libera.chat/#hpc" target="_blank"><button class="btn btn-primary btn_sm">Join the #hpc IRC channel on Libera.chat</button></a>
+
+If you empathize with <a href="https://xkcd.com/1782/" target="_blank">xkcd #1782 - Team Chat</a>,
+you're welcome to join the #hpc channel on <a href="https://libera.chat/" target="_blank">Libera.chat</a>.
+It's a small, laid back group of HPC practioners and friends who prefer the quaint world of IRC.
+
+> The #hpc IRC channel is not officially offiliated with hpc.social or any other group or project.
+
