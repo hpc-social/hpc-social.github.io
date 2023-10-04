@@ -32,6 +32,8 @@ menu:
     url:               /projects/chat/
   - title:             Jobs
     url:               /projects/jobs/
+  - title:             Sponsor
+    url:               /sponsors/
 
 # Add links to the footer.
 legal:
