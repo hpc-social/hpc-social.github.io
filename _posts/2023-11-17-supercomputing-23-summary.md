@@ -34,7 +34,7 @@ The "official" greeting for SC23 was tapping someone on the shoulder, as [announ
 
 ## Texas Tech Tiny Cluster!
 
-Our very own Alan Sill hosted a booth to show up a tiny cluster!
+Our very own Alan Sill hosted a booth to show up a tiny cluster! While Raspberry Pi clusters have been around for a long time and useful in hobbyist activities, training, home automation, and training, this was one of the first such small clusters running Fedora 39 as a natively installed OS on the head node and Enterprise Linux (in this case Rocky) on the worker nodes. More to come as other mainline popular cluster tools like Warewulf, Spack and/or EasyBuild, and Slurm and/or Flux schedulars are added.
 
 ![{{ site.baseurl }}/assets/img/posts/sc23/tiny-cluster-1.jpg]({{ site.baseurl }}/assets/img/posts/sc23/tiny-cluster-1.jpg)
 ![{{ site.baseurl }}/assets/img/posts/sc23/tiny-cluster-2.jpg]({{ site.baseurl }}/assets/img/posts/sc23/tiny-cluster-2.jpg)
