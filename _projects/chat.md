@@ -25,7 +25,7 @@ or <a href="https://github.com/hpc-social/hpc-social.github.io/discussions" targ
 
 ### Slack
 
-<a href="https://join.slack.com/t/hpcsocial/shared_invite/zt-1mpnic8kg-CDAC5JSFkeuUQ~wJHEfCXg" target="_blank"><button class="btn btn-primary btn-sm">Join hpc.social slack</button></a> or if you already have an account, <a href="https://hpcsocial.slack.com" target="_blank"><button class="btn btn-primary btn-sm">Open hpc.social slack</button></a>
+<a href="https://join.slack.com/t/hpcsocial/shared_invite/zt-2my4zxy8g-PZB6HLDCIyhRLbWnkznDZQ" target="_blank"><button class="btn btn-primary btn-sm">Join hpc.social slack</button></a> or if you already have an account, <a href="https://hpcsocial.slack.com" target="_blank"><button class="btn btn-primary btn-sm">Open hpc.social slack</button></a>
 
 We can't wait to see you in the slack!
 
