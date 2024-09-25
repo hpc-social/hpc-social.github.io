@@ -64,6 +64,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/1063858?v=4"
             ]
+        },
+        {
+            "login": "dciangot",
+            "name": "Diego Ciangottini",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://github.com/dciangot",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/4144326?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
