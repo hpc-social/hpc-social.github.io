@@ -61,3 +61,13 @@ Contact the Let’s Talk Exascale podcast at <a href="mailto:ECP-communications@
 - [Pushing Limits in Computing and Biology](http://scienceinparallel.libsyn.com/season-2-episode-6-pushing-limits-in-computing-and-biology )features an interview with Anda Trifan (now a computational sciences investigator at GSK) and Amanda Randles of Duke University.
 
 Browse more episodes [on the show page](https://www.krellinst.org/csgf/outreach/science-in-parallel) or also find your favorite podcast subscription service there!
+
+### Scigeeks' Podcast
+
+<a href="[Find all the episodes here!](https://www.youtube.com/playlist?list=PLnm27H265Le6wyly4tofH8_Mb4fg-bW8X)" target="_blank"><button class="btn btn-primary">Browse Scigeeks' Podcast</button></a>
+
+> Get ready to geek out with us on Scigeeks' Podcast! This podcast series is all about exploring the intersection of technology and science. Our guests will dive into the latest advancements in computing that are changing the game for scientists, researchers, and innovators alike. From machine learning algorithms to genAI applications, from cloud to HPC systems (usually also together), we'll cover it all. Thought-provoking conversations, expert insights, and a passion for making science more efficient, effective, and exciting! Start from some notable episodes presenting the idea of Virtual Nodes for pods on Supercomputers:
+
+- [Democratizing Access to Advanced AI: The Future of GPU provisioning](https://youtube.com/live/IzlbOpRrNx0?feature=share)
+- [MLFlow while running on a SuperComputer with Matteo Bunino from CERN](https://youtube.com/live/UcqiW69aPO4?feature=share)
+- [Kubernetes Meets High-Performance Computing: A New Era for Pods](https://youtube.com/live/enM7Y938P4k?feature=share)
