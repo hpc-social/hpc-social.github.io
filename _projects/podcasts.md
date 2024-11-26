@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Podcasts'
-date: 10 Nov 2022
+date: 25 Nov 2024
 image: 
   path: /assets/img/projects/devstories.png
 screenshot: /assets/img/projects/devstories.png
@@ -34,6 +34,18 @@ Recent episodes that featured HPC community projects and people have included:
 And browse more episodes [at the show site!](https://rseng.github.io/devstories/posts/). Information about the show and how
 to be featured as a guest is on the [about page](https://rseng.github.io/devstories/about/).
 
+### HPCwire "This week in HPC" Podcast
+
+<a href="https://www.hpcwire.com/podcast/" target="_blank"><button class="btn btn-primary">Browse "This week in HPC" HPCwire Podcasts</button></a>
+
+Media/Industry podcast from HPCwire - "Since 1987 - Covering the Fastest Computers in the World and the People Who Run Them".  
+
+### InsideHPC Podcast
+
+<a href="https://insidehpc.com/category/resources/hpc-podcast/" target="_blank"><button class="btn btn-primary">Browse InsideHPC Podcasts</button></a>
+
+Media/Industry podcast from InsideHPC - "At the Convergence of HPC, AI and Quantum". Featuring @HPCpodcast and "HPC News Bytes".
+
 ### Let’s Talk Exascale
 
 <a href="https://www.exascaleproject.org/podcast/" target="_blank"><button class="btn btn-primary">Browse Let’s Talk Exascale</button></a>
@@ -64,10 +76,17 @@ Browse more episodes [on the show page](https://www.krellinst.org/csgf/outreach/
 
 ### Scigeeks' Podcast
 
-<a href="[Find all the episodes here!](https://www.youtube.com/playlist?list=PLnm27H265Le6wyly4tofH8_Mb4fg-bW8X)" target="_blank"><button class="btn btn-primary">Browse Scigeeks' Podcast</button></a>
+<a href="https://www.youtube.com/playlist?list=PLnm27H265Le6wyly4tofH8_Mb4fg-bW8X" target="_blank"><button class="btn btn-primary">Browse Scigeeks' Podcast</button></a>
 
 > Get ready to geek out with us on Scigeeks' Podcast! This podcast series is all about exploring the intersection of technology and science. Our guests will dive into the latest advancements in computing that are changing the game for scientists, researchers, and innovators alike. From machine learning algorithms to genAI applications, from cloud to HPC systems (usually also together), we'll cover it all. Thought-provoking conversations, expert insights, and a passion for making science more efficient, effective, and exciting! Start from some notable episodes presenting the idea of Virtual Nodes for pods on Supercomputers:
 
 - [Democratizing Access to Advanced AI: The Future of GPU provisioning](https://youtube.com/live/IzlbOpRrNx0?feature=share)
 - [MLFlow while running on a SuperComputer with Matteo Bunino from CERN](https://youtube.com/live/UcqiW69aPO4?feature=share)
 - [Kubernetes Meets High-Performance Computing: A New Era for Pods](https://youtube.com/live/enM7Y938P4k?feature=share)
+
+### Supercomputing in Europe Podcast
+
+<a href="https://creators.spotify.com/pod/show/supercomputing-in-europe" target="_blank"><button class="btn btn-primary">Supercomputing in Europe Podcast</button></a>
+
+New episodes every 2 weeks! In this podcast we talk about all things supercomputers. In our episodes we are interviewing guests from all around Europe who are going to talk about their work and hopefully clear misconceptions in multiple fields such as life science, machine learning, engineering, data science, quantum computing and more.
+ 
