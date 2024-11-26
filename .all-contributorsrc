@@ -75,6 +75,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/4144326?v=4"
             ]
+        },
+        {
+            "login": "karlpodesta",
+            "name": "Karl Podesta",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://ie.linkedin.com/in/kpodesta",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/7439582?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
