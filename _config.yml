@@ -13,7 +13,7 @@ logo:                  /assets/img/hpc-social-blue.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Alan Sill
+  name:                HPC Social
   email:               info@hpc.social
   # Used by `jekyll-seo-tag`:
   twitter:             hpc_social
@@ -37,6 +37,8 @@ menu:
 legal:
   - title:             LICENSE
     external_url:      https://github.com/hpc-social/hpc-social.github.io/blob/main/LICENSE
+  - title:             SPONSOR
+    url:               /sponsors/
   - title:             CHANGELOG
     url:               /CHANGELOG/
 
@@ -321,9 +323,11 @@ social:
   name:                HPC Social
   github:              hpc-social
   mastodon:            https://mast.hpc.social/about
+  sponsor:             https://hpc.social/sponsors
   links:
     - https://twitter.com/hpc_social
     - https://github.com/hpc-social
+	- https://hpc.social/sponsors/
 
 
 # Plugin Configs

@@ -1,4 +1,7 @@
 # This file contains meta data for various social media sites
+sponsor:
+  name: Sponsors
+  icon: icon-heart
 email:
   name: Email
   icon: icon-mail
