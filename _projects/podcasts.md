@@ -21,9 +21,9 @@ to this list? <a href="https://github.com/hpc-social/hpc-social.github.io/issues
 
 ### @HPCpodcast with Shahin Khan and Doug Black
 
-[Browse @HPCpodcast](https://orionx.net/category/hpc-podcast/)
+<a href="https://orionx.net/category/hpc-podcast/" target="_blank"><button class="btn btn-primary">Browse @HPCpodcast episodes</button></a>
 
-A weekly podcast covering supercomputing, AI, quantum computing, advanced infrastructure, markets and technology policy. Featuring HPC News Bytes, In-Depth conversations and Industry View interviews.
+A weekly podcast covering supercomputing, AI, quantum computing, advanced infrastructure, markets and technology policy. Featuring weekly HPC-News-Bytes (~10min), and occasional In-Depth conversations and Industry-View interviews.
 
 ### Developer Stories
 
