@@ -19,6 +19,12 @@ The following podcasts have featured members of HPC community, and are listed in
 alphabetical order. Want to add a podcast
 to this list? <a href="https://github.com/hpc-social/hpc-social.github.io/issues" target="_blank">Let us know</a>!
 
+### @HPCpodcast with Shahin Khan and Doug Black
+
+[Browse @HPCpodcast](https://orionx.net/category/hpc-podcast/)
+
+A weekly podcast covering supercomputing, AI, quantum computing, advanced infrastructure, markets and technology policy. Featuring HPC News Bytes, In-Depth conversations and Industry View interviews.
+
 ### Developer Stories
 
 <a href="https://rseng.github.io/devstories/" target="_blank"><button class="btn btn-primary">Browse Developer Stories</button></a>
