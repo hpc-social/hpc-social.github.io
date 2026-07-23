@@ -86,6 +86,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/7439582?v=4"
             ]
+        },
+        {
+            "login": "ShahinKhan",
+            "name": "Shahin Khan",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://github.com/ShahinKhan",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/6364511?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7

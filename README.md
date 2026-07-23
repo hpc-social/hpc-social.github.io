@@ -1,7 +1,7 @@
 # hpc-social
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the HPC Social site!
@@ -36,6 +36,9 @@ tool to generate a contributors graphic below.
       <td align="center" valign="top" width="14.28%"><a href="https://git.sr.ht/~jbowen"><img src="https://avatars.githubusercontent.com/u/1063858?v=4?s=100" width="100px;" alt="Jason Bowen"/><br /><sub><b>Jason Bowen</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=jwbowen" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dciangot"><img src="https://avatars.githubusercontent.com/u/4144326?v=4?s=100" width="100px;" alt="Diego Ciangottini"/><br /><sub><b>Diego Ciangottini</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=dciangot" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://ie.linkedin.com/in/kpodesta"><img src="https://avatars.githubusercontent.com/u/7439582?v=4?s=100" width="100px;" alt="Karl Podesta"/><br /><sub><b>Karl Podesta</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=karlpodesta" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShahinKhan"><img src="https://avatars.githubusercontent.com/u/6364511?v=4?s=100" width="100px;" alt="Shahin Khan"/><br /><sub><b>Shahin Khan</b></sub></a><br /><a href="https://github.com/hpc-social/hpc-social.github.io/commits?author=ShahinKhan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
